@@ -7,7 +7,7 @@
       "name": "backgroundButtonLinkSecondaryActive"
     },
     {
-      "value": "16px",
+      "value": "0 12px",
       "type": "size",
       "category": "Spacing",
       "name": "paddingInputNormal"
@@ -41,6 +41,12 @@
       "type": "size",
       "category": "Size (width, height)",
       "name": "heightButtonNormal"
+    },
+    {
+      "value": "14px",
+      "type": "size",
+      "category": "Font size",
+      "name": "fontSizeFormLabel"
     },
     {
       "value": "rgb(229, 234, 239)",
@@ -95,6 +101,12 @@
       "type": "color",
       "category": "Color palette",
       "name": "paletteInkDark"
+    },
+    {
+      "value": "rgb(1, 118, 210)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorTextBadgeInfo"
     },
     {
       "value": "rgb(0, 106, 189)",
@@ -161,6 +173,12 @@
       "type": "size",
       "category": "Spacing",
       "name": "spaceSmall"
+    },
+    {
+      "value": "48px",
+      "type": "size",
+      "category": "Size (width, height)",
+      "name": "heightServiceLogoLarge"
     },
     {
       "value": "rgb(229, 234, 239)",
@@ -239,6 +257,12 @@
       "type": "color",
       "category": "Background colors",
       "name": "backgroundButtonGoogleHover"
+    },
+    {
+      "value": "rgb(224, 246, 255)",
+      "type": "color",
+      "category": "Background colors",
+      "name": "backgroundBadgeInfo"
     },
     {
       "value": "rgb(70, 182, 85)",
@@ -368,6 +392,12 @@
       "name": "borderRadiusNormal"
     },
     {
+      "value": "12px",
+      "type": "size",
+      "category": "Border radius",
+      "name": "borderRadiusBadge"
+    },
+    {
       "value": "rgb(249, 151, 30)",
       "type": "color",
       "category": "Colors",
@@ -422,6 +452,12 @@
       "name": "heightRadioButton"
     },
     {
+      "value": "2px",
+      "type": "size",
+      "category": "Spacing",
+      "name": "marginBottomSelectSuffix"
+    },
+    {
       "value": "rgb(70, 81, 94)",
       "type": "color",
       "category": "Colors",
@@ -446,6 +482,12 @@
       "name": "colorTextButtonSuccessActive"
     },
     {
+      "value": "rgb(70, 182, 85)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorIconGreen"
+    },
+    {
       "value": "rgb(232, 237, 241)",
       "type": "color",
       "category": "Border color",
@@ -462,6 +504,12 @@
       "type": "size",
       "category": "Size (width, height)",
       "name": "heightIconSmall"
+    },
+    {
+      "value": "rgb(252, 241, 205)",
+      "type": "color",
+      "category": "Background colors",
+      "name": "backgroundBadgeWarning"
     },
     {
       "value": "rgb(176, 232, 254)",
@@ -524,22 +572,28 @@
       "name": "backgroundButtonLinkPrimary"
     },
     {
-      "value": "14px",
-      "type": "size",
-      "category": "Font size",
-      "name": "fontSizeLabelForm"
-    },
-    {
       "value": "rgb(255, 255, 255)",
       "type": "color",
       "category": "Colors",
       "name": "colorTextButtonFacebook"
     },
     {
+      "value": "rgb(255, 255, 255)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorTextBadgeDark"
+    },
+    {
       "value": "rgb(166, 182, 200)",
       "type": "color",
       "category": "Border color",
       "name": "borderColorInputHover"
+    },
+    {
+      "value": "rgb(249, 151, 30)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorTextBadgeWarning"
     },
     {
       "value": "8px",
@@ -687,13 +741,25 @@
       "name": "paletteProductDark"
     },
     {
+      "value": "rgb(249, 151, 30)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorIconOrange"
+    },
+    {
+      "value": "rgb(70, 81, 94)",
+      "type": "color",
+      "category": "Background colors",
+      "name": "backgroundBadgeDark"
+    },
+    {
       "value": "rgb(127, 145, 168)",
       "type": "color",
       "category": "Color palette",
       "name": "paletteInkLight"
     },
     {
-      "value": 0.9,
+      "value": 0.95,
       "type": "number",
       "category": "Modifier",
       "name": "modifierScaleButtonActive"
@@ -789,6 +855,12 @@
       "name": "colorTextButtonCriticalBordered"
     },
     {
+      "value": "rgb(127, 145, 168)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorTextInputPrefix"
+    },
+    {
       "value": "22px",
       "type": "size",
       "category": "Font size",
@@ -823,6 +895,12 @@
       "type": "size",
       "category": "Font size",
       "name": "fontSizeInputSmall"
+    },
+    {
+      "value": "rgb(70, 81, 94)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorFormLabel"
     },
     {
       "value": "rgb(186, 199, 213)",
@@ -899,6 +977,12 @@
     {
       "value": "12px",
       "type": "size",
+      "category": "Size (width, height)",
+      "name": "heightServiceLogoSmall"
+    },
+    {
+      "value": "0 12px",
+      "type": "size",
       "category": "Spacing",
       "name": "paddingInputSmall"
     },
@@ -914,6 +998,12 @@
       "type": "color",
       "category": "Color palette",
       "name": "paletteWhite"
+    },
+    {
+      "value": "rgb(210, 28, 28)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorPlaceholderInputError"
     },
     {
       "value": "rgb(186, 199, 213)",
@@ -940,6 +1030,18 @@
       "name": "backgroundButtonInfoHover"
     },
     {
+      "value": "rgb(231, 243, 232)",
+      "type": "color",
+      "category": "Background colors",
+      "name": "backgroundBadgeSuccess"
+    },
+    {
+      "value": "24px",
+      "type": "size",
+      "category": "Size (width, height)",
+      "name": "heightServiceLogoMedium"
+    },
+    {
       "value": "rgb(245, 247, 249)",
       "type": "color",
       "category": "Color palette",
@@ -952,6 +1054,12 @@
       "name": "fontWeightNormal"
     },
     {
+      "value": "6px",
+      "type": "size",
+      "category": "Spacing",
+      "name": "paddingLeftInputFile"
+    },
+    {
       "value": "rgb(214, 222, 230)",
       "type": "color",
       "category": "Background colors",
@@ -962,6 +1070,12 @@
       "type": "color",
       "category": "Colors",
       "name": "colorTextAttention"
+    },
+    {
+      "value": "rgb(127, 145, 168)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorFormLabelFilled"
     },
     {
       "value": "rgb(70, 182, 85)",
@@ -988,7 +1102,7 @@
       "name": "paletteOrangeLightHover"
     },
     {
-      "value": "0.2s",
+      "value": "0.15s",
       "type": "string",
       "category": "Duration",
       "name": "durationFast"
@@ -1018,10 +1132,22 @@
       "name": "textDecorationTextLinkSecondary"
     },
     {
+      "value": "rgb(70, 182, 85)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorTextBadgeSuccess"
+    },
+    {
       "value": "rgb(255, 255, 255)",
       "type": "color",
       "category": "Colors",
       "name": "colorTextButtonInfo"
+    },
+    {
+      "value": "2px",
+      "type": "size",
+      "category": "Spacing",
+      "name": "marginTopFormFeedback"
     },
     {
       "value": "rgb(249, 151, 30)",
@@ -1120,6 +1246,12 @@
       "name": "colorTextPrimary"
     },
     {
+      "value": "rgb(245, 247, 249)",
+      "type": "color",
+      "category": "Background colors",
+      "name": "backgroundBadgeNeutral"
+    },
+    {
       "value": "rgb(70, 81, 94)",
       "type": "color",
       "category": "Colors",
@@ -1138,10 +1270,28 @@
       "name": "colorTextButtonSuccessBorderedActive"
     },
     {
+      "value": "rgb(210, 28, 28)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorTextBadgeCritical"
+    },
+    {
+      "value": "12px",
+      "type": "size",
+      "category": "Spacing",
+      "name": "paddingTextareaNormal"
+    },
+    {
       "value": "rgb(178, 23, 23)",
       "type": "color",
       "category": "Colors",
       "name": "colorTextButtonCriticalBorderedActive"
+    },
+    {
+      "value": "transparent",
+      "type": "string",
+      "category": "Background colors",
+      "name": "backgroundServiceLogo"
     },
     {
       "value": "\"Roboto\", -apple-system, \".SFNSText-Regular\", \"San Francisco\", \"Segoe UI\", \"Helvetica Neue\", \"Lucida Grande\", sans-serif",
@@ -1204,6 +1354,12 @@
       "name": "paletteSocialFacebookActive"
     },
     {
+      "value": "rgb(250, 232, 232)",
+      "type": "color",
+      "category": "Background colors",
+      "name": "backgroundBadgeCritical"
+    },
+    {
       "value": "rgb(255, 255, 255)",
       "type": "color",
       "category": "Colors",
@@ -1240,6 +1396,12 @@
       "name": "widthIconMedium"
     },
     {
+      "value": "rgb(23, 27, 30)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorTextBadgeNeutral"
+    },
+    {
       "value": "8px",
       "type": "size",
       "category": "Spacing",
@@ -1256,6 +1418,12 @@
       "type": "size",
       "category": "Spacing",
       "name": "spaceXxLarge"
+    },
+    {
+      "value": "rgb(210, 28, 28)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorIconRed"
     },
     {
       "value": "500",
@@ -1280,12 +1448,6 @@
       "type": "string",
       "category": "Duration",
       "name": "durationSlow"
-    },
-    {
-      "value": "rgb(70, 81, 94)",
-      "type": "color",
-      "category": "Colors",
-      "name": "colorLabelForm"
     },
     {
       "value": "24px",
@@ -1322,6 +1484,12 @@
       "type": "color",
       "category": "Colors",
       "name": "colorTextButtonLinkPrimaryHover"
+    },
+    {
+      "value": "rgb(1, 118, 210)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorIconBlue"
     },
     {
       "value": "500",
@@ -1402,12 +1570,6 @@
       "name": "colorTextAlertSuccess"
     },
     {
-      "value": "rgb(127, 145, 168)",
-      "type": "color",
-      "category": "Colors",
-      "name": "colorLabelFormFilled"
-    },
-    {
       "value": "rgb(210, 28, 28)",
       "type": "color",
       "category": "Colors",
@@ -1480,6 +1642,12 @@
       "name": "colorTextLinkPrimary"
     },
     {
+      "value": "rgb(186, 199, 213)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorIconCheckboxRadioDisabled"
+    },
+    {
       "value": "16px",
       "type": "size",
       "category": "Font size",
@@ -1520,6 +1688,12 @@
       "type": "color",
       "category": "Border color",
       "name": "borderColorTableCell"
+    },
+    {
+      "value": "12px",
+      "type": "size",
+      "category": "Font size",
+      "name": "fontSizeFormFeedback"
     },
     {
       "value": "rgb(178, 23, 23)",
@@ -1618,6 +1792,12 @@
       "name": "heightIconLarge"
     },
     {
+      "value": "0 0 4px 1px rgba(1,118,210,0.3)",
+      "type": "size",
+      "category": "Box shadow",
+      "name": "boxShadowButtonFocus"
+    },
+    {
       "value": "rgb(200, 239, 254)",
       "type": "color",
       "category": "Color palette",
@@ -1634,18 +1814,6 @@
       "type": "string",
       "category": "Z Index",
       "name": "zIndexModalOverlay"
-    },
-    {
-      "value": "rgb(186, 199, 213)",
-      "type": "color",
-      "category": "Colors",
-      "name": "colorIconCheckboxDisabled"
-    },
-    {
-      "value": "12px",
-      "type": "size",
-      "category": "Font size",
-      "name": "fontSizeMessageForm"
     },
     {
       "value": "900",
@@ -1696,6 +1864,18 @@
       "name": "paletteCloudLight"
     },
     {
+      "value": "rgb(0, 169, 145)",
+      "type": "color",
+      "category": "Colors",
+      "name": "colorIconCheckboxRadio"
+    },
+    {
+      "value": "8px 12px",
+      "type": "size",
+      "category": "Spacing",
+      "name": "paddingTextareaSmall"
+    },
+    {
       "value": "rgb(249, 151, 30)",
       "type": "color",
       "category": "Background colors",
@@ -1730,6 +1910,12 @@
       "type": "color",
       "category": "Color palette",
       "name": "paletteBlueNormal"
+    },
+    {
+      "value": "24px",
+      "type": "size",
+      "category": "Size (width, height)",
+      "name": "heightBadge"
     },
     {
       "value": "32px",
@@ -1847,6 +2033,12 @@
       "name": "colorTextInfo"
     },
     {
+      "value": "1px",
+      "type": "size",
+      "category": "Spacing",
+      "name": "marginRightButtonGroup"
+    },
+    {
       "value": "rgb(214, 222, 230)",
       "type": "color",
       "category": "Background colors",
@@ -1875,12 +2067,6 @@
       "type": "color",
       "category": "Colors",
       "name": "colorTextButtonSecondaryBorderedHover"
-    },
-    {
-      "value": "rgb(0, 169, 145)",
-      "type": "color",
-      "category": "Colors",
-      "name": "colorIconCheckbox"
     },
     {
       "value": "rgb(189, 25, 25)",

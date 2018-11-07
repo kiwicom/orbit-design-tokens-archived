@@ -376,7 +376,7 @@ Object {
   "widthRadioButton": "20px",
   "zIndexDefault": "1",
   "zIndexModal": "825",
-  "zIndexModalOverlay": "800",
+  "zIndexModalOverlay": "1000",
   "zIndexOnTheTop": "900",
   "zIndexSticky": "100",
 }
@@ -758,7 +758,7 @@ Object {
   "widthRadioButton": "20px",
   "zIndexDefault": "1",
   "zIndexModal": "825",
-  "zIndexModalOverlay": "800",
+  "zIndexModalOverlay": "1000",
   "zIndexOnTheTop": "900",
   "zIndexSticky": "100",
 }
@@ -1140,7 +1140,7 @@ Object {
   "widthRadioButton": "20px",
   "zIndexDefault": "1",
   "zIndexModal": "825",
-  "zIndexModalOverlay": "800",
+  "zIndexModalOverlay": "1000",
   "zIndexOnTheTop": "900",
   "zIndexSticky": "100",
 }
@@ -1522,7 +1522,7 @@ Object {
   "widthRadioButton": "20px",
   "zIndexDefault": "1",
   "zIndexModal": "825",
-  "zIndexModalOverlay": "800",
+  "zIndexModalOverlay": "1000",
   "zIndexOnTheTop": "900",
   "zIndexSticky": "100",
 }

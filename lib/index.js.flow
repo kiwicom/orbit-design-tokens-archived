@@ -463,8 +463,12 @@ export type ThemePaletteColors = {|
   productDark: string,
 |};
 
-declare export function getTokens(customFoundation?: $Shape<Foundation>): Tokens;
+export type GetTokens = (customFoundation?: $Shape<Foundation>) => Tokens;
 
-declare export function fromPlainObject(themePaletteColors: ThemePaletteColors): Tokens;
+export type FromPlainObject = (themePaletteColors: ThemePaletteColors) => Tokens;
+
+declare export var getTokens: GetTokens;
+
+declare export var fromPlainObject: FromPlainObject;
 
 declare export var defaultTokens: Tokens;

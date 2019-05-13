@@ -471,6 +471,8 @@ export type ThemePaletteColors = {|
   productNormalHover: string,
   productNormalActive: string,
   productDark: string,
+  productDarkHover?: string,
+  productDarkActive?: string,
 |};
 
 declare export function getTokens(customFoundation?: $Shape<Foundation>): Tokens;

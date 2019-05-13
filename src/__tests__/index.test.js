@@ -97,6 +97,29 @@ describe("fromPlainObject should create full theme", () => {
     expect(theme.colorTextButtonPrimaryBorderedHover).toBe(palette.productNormalHover);
     expect(theme.colorTextButtonPrimaryBorderedActive).toBe(palette.productNormalActive);
   });
+  it("tokens should have default darkHover and darkActive", () => {
+    expect(theme.paletteProductDarkHover).toBe(foundation.palette.product.darkHover);
+    expect(theme.paletteProductDarkActive).toBe(foundation.palette.product.darkActive);
+  });
+});
+
+describe("fromPlainObject with full object should create full theme", () => {
+  var palette = {
+    productLight: "#ff9999",
+    productLightHover: "#ff7f7f",
+    productLightActive: "#ff6666",
+    productNormal: "#ff0000",
+    productNormalHover: "#e50000",
+    productNormalActive: "#cc0000",
+    productDark: "#990000",
+    productDarkHover: "#820000",
+    productDarkActive: "#720000",
+  };
+  var theme = fromPlainObject(palette);
+  it("tokens should have exact darkHover and darkActive", () => {
+    expect(theme.paletteProductDarkHover).toBe(palette.productDarkHover);
+    expect(theme.paletteProductDarkActive).toBe(palette.productDarkActive);
+  });
 });
 
 describe("convertHexToRgba", () => {

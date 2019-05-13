@@ -9,7 +9,7 @@
       }
     },
     "colorTextSecondary": {
-      "value": "#7f91a8",
+      "value": "#5F738C",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -81,7 +81,7 @@
       }
     },
     "colorIconSecondary": {
-      "value": "#7f91a8",
+      "value": "#5F738C",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -97,7 +97,7 @@
       }
     },
     "colorIconTertiary": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -625,7 +625,7 @@
       }
     },
     "colorTextButtonCriticalBorderedHover": {
-      "value": "#bd1919",
+      "value": "#B91919",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -769,7 +769,7 @@
       }
     },
     "colorTextInputPrefix": {
-      "value": "#7f91a8",
+      "value": "#5F738C",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -777,7 +777,7 @@
       }
     },
     "colorTextInputDisabled": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -841,7 +841,7 @@
       }
     },
     "colorTextLoading": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -849,7 +849,7 @@
       }
     },
     "colorTextTable": {
-      "value": "#7f91a8",
+      "value": "#5F738C",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -873,7 +873,7 @@
       }
     },
     "colorIconInput": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -881,7 +881,7 @@
       }
     },
     "colorPlaceholderInput": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -897,7 +897,7 @@
       }
     },
     "colorPlaceholderInputFile": {
-      "value": "#7f91a8",
+      "value": "#5F738C",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -921,7 +921,7 @@
       }
     },
     "colorFormLabelFilled": {
-      "value": "#7f91a8",
+      "value": "#5F738C",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -929,7 +929,7 @@
       }
     },
     "colorInfoCheckBoxRadio": {
-      "value": "#7f91a8",
+      "value": "#5F738C",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -945,7 +945,7 @@
       }
     },
     "colorIconCheckboxRadioDisabled": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -961,7 +961,7 @@
       }
     },
     "colorIconRadioButtonDisabled": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -969,7 +969,7 @@
       }
     },
     "colorStopoverArrow": {
-      "value": "#7f91a8",
+      "value": "#5F738C",
       "type": "color",
       "category": "Colors",
       "meta": {
@@ -1201,7 +1201,7 @@
       }
     },
     "backgroundButtonCriticalHover": {
-      "value": "#bd1919",
+      "value": "#B91919",
       "type": "color",
       "category": "Background colors",
       "meta": {
@@ -1465,7 +1465,7 @@
       }
     },
     "backgroundTableShadowLeft": {
-      "value": "linear-gradient(to left, transparent, rgba(95, 115, 140, 0.23))",
+      "value": "linear-gradient(to left, transparent, rgba(186, 199, 213, 0.23))",
       "type": "string",
       "category": "Background colors",
       "meta": {
@@ -1473,7 +1473,7 @@
       }
     },
     "backgroundTableShadowRight": {
-      "value": "linear-gradient(to right, transparent, rgba(95, 115, 140, 0.23))",
+      "value": "linear-gradient(to right, transparent, rgba(186, 199, 213, 0.23))",
       "type": "string",
       "category": "Background colors",
       "meta": {
@@ -2077,7 +2077,7 @@
       }
     },
     "borderColorInput": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Border color",
       "meta": {
@@ -2085,7 +2085,7 @@
       }
     },
     "borderColorInputHover": {
-      "value": "#52647A",
+      "value": "#a6b6c8",
       "type": "color",
       "category": "Border color",
       "meta": {
@@ -2093,7 +2093,7 @@
       }
     },
     "borderColorInputActive": {
-      "value": "#465567",
+      "value": "#94a8be",
       "type": "color",
       "category": "Border color",
       "meta": {
@@ -2117,7 +2117,7 @@
       }
     },
     "borderColorInputErrorHover": {
-      "value": "#bd1919",
+      "value": "#B91919",
       "type": "color",
       "category": "Border color",
       "meta": {
@@ -2133,7 +2133,7 @@
       }
     },
     "borderColorTableCell": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Border color",
       "meta": {
@@ -2333,7 +2333,7 @@
       }
     },
     "borderColorButtonCriticalBorderedHover": {
-      "value": "#bd1919",
+      "value": "#B91919",
       "type": "color",
       "category": "Border color",
       "meta": {
@@ -2373,7 +2373,7 @@
       }
     },
     "borderColorCheckboxRadio": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Border color",
       "meta": {
@@ -2389,7 +2389,7 @@
       }
     },
     "borderColorCheckboxRadioHover": {
-      "value": "#7f91a8",
+      "value": "#5F738C",
       "type": "color",
       "category": "Border color",
       "meta": {
@@ -2421,7 +2421,7 @@
       }
     },
     "borderColorTableHead": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Border color",
       "meta": {
@@ -3149,7 +3149,7 @@
       }
     },
     "paletteProductDarkHover": {
-      "value": "#D6F0EE",
+      "value": "#007060",
       "type": "color",
       "category": "Color palette",
       "meta": {
@@ -3157,7 +3157,7 @@
       }
     },
     "paletteProductDarkActive": {
-      "value": "#C0E8E4",
+      "value": "#006657",
       "type": "color",
       "category": "Color palette",
       "meta": {
@@ -3237,7 +3237,7 @@
       }
     },
     "paletteInkLighter": {
-      "value": "#5F738C",
+      "value": "#bac7d5",
       "type": "color",
       "category": "Color palette",
       "meta": {
@@ -3245,7 +3245,7 @@
       }
     },
     "paletteInkLighterHover": {
-      "value": "#52647A",
+      "value": "#a6b6c8",
       "type": "color",
       "category": "Color palette",
       "meta": {
@@ -3253,7 +3253,7 @@
       }
     },
     "paletteInkLighterActive": {
-      "value": "#465567",
+      "value": "#94a8be",
       "type": "color",
       "category": "Color palette",
       "meta": {
@@ -3261,7 +3261,7 @@
       }
     },
     "paletteInkLight": {
-      "value": "#7f91a8",
+      "value": "#5F738C",
       "type": "color",
       "category": "Color palette",
       "meta": {
@@ -3269,7 +3269,7 @@
       }
     },
     "paletteInkLightHover": {
-      "value": "#6d819c",
+      "value": "#52647A",
       "type": "color",
       "category": "Color palette",
       "meta": {
@@ -3277,7 +3277,7 @@
       }
     },
     "paletteInkLightActive": {
-      "value": "#5f738c",
+      "value": "#465567",
       "type": "color",
       "category": "Color palette",
       "meta": {
@@ -3421,7 +3421,7 @@
       }
     },
     "paletteRedNormalHover": {
-      "value": "#bd1919",
+      "value": "#B91919",
       "type": "color",
       "category": "Color palette",
       "meta": {

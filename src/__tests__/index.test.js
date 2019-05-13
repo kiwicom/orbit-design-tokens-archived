@@ -23,6 +23,8 @@ describe("getTokens should accept some palette and base foundation", () => {
         normalHover: "#555",
         normalActive: "#666",
         dark: "#777",
+        darkHover: "#888",
+        darkActive: "#999",
       },
     },
     base: {
@@ -39,6 +41,8 @@ describe("getTokens should accept some palette and base foundation", () => {
     expect(theme.colorTextButtonPrimaryBordered).toBe(brand.palette.product.normal);
     expect(theme.colorTextButtonPrimaryBorderedHover).toBe(brand.palette.product.normalHover);
     expect(theme.colorTextButtonPrimaryBorderedActive).toBe(brand.palette.product.normalActive);
+    expect(theme.paletteProductDarkHover).toBe(brand.palette.product.darkHover);
+    expect(theme.paletteProductDarkActive).toBe(brand.palette.product.darkActive);
   });
   it("should deep merge", () => {
     expect(theme.paletteProductLight).toBe(foundation.palette.product.light);

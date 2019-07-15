@@ -3052,7 +3052,7 @@
         "categoryDescription": ""
       }
     },
-    "lineHeightHeadingDisplaySubtitle": {
+    "lineHeightHeadingSubDisplay": {
       "value": "28px",
       "type": "size",
       "category": "Line height",

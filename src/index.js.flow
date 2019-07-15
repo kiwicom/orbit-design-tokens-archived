@@ -391,7 +391,7 @@ export type Tokens = {|
   lineHeightText: string,
   lineHeightHeading: string,
   lineHeightHeadingDisplay: string,
-  lineHeightHeadingDisplaySubtitle: string,
+  lineHeightHeadingSubDisplay: string,
   lineHeightHeadingTitle1: string,
   lineHeightHeadingTitle2: string,
   lineHeightHeadingTitle3: string,

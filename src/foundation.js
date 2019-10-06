@@ -1,5 +1,4 @@
 // @flow
-import convertHexToRgba from "./convertHexToRgba";
 
 const palette = {
   product: {

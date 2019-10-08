@@ -319,7 +319,7 @@ module.exports = {
   backgroundButtonWhiteBordered: "transparent",
   widthModalLarge: "1280px",
   paletteWhiteActive: "rgb(229, 234, 239)",
-  backgroundButtonSecondary: "rgb(239, 242, 245)",
+  backgroundButtonSecondary: "rgb(232, 237, 241)",
   backgroundButtonInfoActive: "rgb(1, 80, 142)",
   backgroundButtonLinkPrimaryHover: "rgb(229, 234, 239)",
   widthIconMedium: "24px",

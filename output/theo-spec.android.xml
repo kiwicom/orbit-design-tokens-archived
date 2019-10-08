@@ -317,7 +317,7 @@
   <string name="BACKGROUNDBUTTONWHITEBORDERED" category="Background colors">transparent</string>
   <dimen name="WIDTHMODALLARGE" category="Size (width, height)">1280dp</dimen>
   <color name="PALETTEWHITEACTIVE" category="Color palette">#ffe5eaef</color>
-  <color name="BACKGROUNDBUTTONSECONDARY" category="Background colors">#ffeff2f5</color>
+  <color name="BACKGROUNDBUTTONSECONDARY" category="Background colors">#ffe8edf1</color>
   <color name="BACKGROUNDBUTTONINFOACTIVE" category="Background colors">#ff01508e</color>
   <color name="BACKGROUNDBUTTONLINKPRIMARYHOVER" category="Background colors">#ffe5eaef</color>
   <dimen name="WIDTHICONMEDIUM" category="Size (width, height)">24dp</dimen>

@@ -1906,7 +1906,7 @@
       "name": "paletteWhiteActive"
     },
     {
-      "value": "rgb(239, 242, 245)",
+      "value": "rgb(232, 237, 241)",
       "type": "color",
       "category": "Background colors",
       "name": "backgroundButtonSecondary"

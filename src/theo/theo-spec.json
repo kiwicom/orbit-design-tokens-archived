@@ -3028,6 +3028,30 @@
         "categoryDescription": ""
       }
     },
+    "lineHeightTextSmall": {
+      "value": "16px",
+      "type": "size",
+      "category": "Line height",
+      "meta": {
+        "categoryDescription": ""
+      }
+    },
+    "lineHeightTextNormal": {
+      "value": "20px",
+      "type": "size",
+      "category": "Line height",
+      "meta": {
+        "categoryDescription": ""
+      }
+    },
+    "lineHeightTextLarge": {
+      "value": "22px",
+      "type": "size",
+      "category": "Line height",
+      "meta": {
+        "categoryDescription": ""
+      }
+    },
     "lineHeightHeading": {
       "value": "1.2",
       "type": "string",

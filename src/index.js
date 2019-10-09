@@ -249,11 +249,22 @@ export const getTokens: GetTokens = customFoundation => {
     borderRadiusBadge: "12px",
     // category:Z Index
     // description:Use layers to show depth of page.
-    zIndexDefault: "1",
-    zIndexSticky: "100",
-    zIndexModalOverlay: "800",
-    zIndexModal: "825",
-    zIndexOnTheTop: "900",
+    zIndexLevelOne: 10,
+    zIndexLevelTwo: 20,
+    zIndexLevelThree: 30,
+    zIndexLevelFour: 40,
+    zIndexLevelFive: 50,
+    zIndexFloatingAction: 200,
+    zIndexNavBar: 500,
+    zIndexDrawerOverlay: 599,
+    zIndexDrawer: 600,
+    zIndexModalOverlay: 699,
+    zIndexModal: 700,
+    zIndexPopoverOverlay: 799,
+    zIndexPopover: 800,
+    zIndexTooltipOverlay: 899,
+    zIndexTooltip: 900,
+    zIndexToastMessage: 1000,
     // category:Size (width, height)
     // description:
     widthIconSmall: theme.base.sizeSm,

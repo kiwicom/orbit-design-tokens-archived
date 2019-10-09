@@ -17,7 +17,7 @@
   "scripts": {
     "generate-json": "node ./src/theo/generate-theo-parser",
     "flow:check": "flow check",
-    "release": "npm publish",
+    "release": "npm publish --tag develop",
     "build-html": "theo --setup ./src/theo/setup.js ./src/theo/theo-spec.json --format kiwi.html --dest ./pages",
     "build-web": "theo ./src/theo/theo-spec.json --transform web --format json,scss,sass,less,styl,cssmodules.css,common.js --dest ./output",
     "build-ios": "theo ./src/theo/theo-spec.json --transform ios --format ios.json --dest ./output",

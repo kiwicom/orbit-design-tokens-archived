@@ -60,7 +60,7 @@
     "flow-bin": "^0.122.0",
     "jest": "^25.3.0",
     "lodash": "^4.17.14",
-    "prettier": "^1.18.2",
+    "prettier": "^2.0.4",
     "theo": "^8.1.2"
   },
   "dependencies": {

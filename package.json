@@ -61,7 +61,7 @@
     "@typescript-eslint/eslint-plugin": "^2.23.0",
     "@typescript-eslint/parser": "^2.23.0",
     "flow-bin": "^0.122.0",
-    "jest": "^25.3.0",
+    "jest": "^26.2.1",
     "lodash": "^4.17.14",
     "prettier": "^1.18.2",
     "theo": "^8.1.2",

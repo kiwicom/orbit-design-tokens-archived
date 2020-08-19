@@ -46,7 +46,7 @@
     "@babel/core": "^7.9.0",
     "@babel/node": "^7.10.5",
     "@babel/parser": "^7.9.4",
-    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-env": "^7.11.0",
     "@babel/preset-flow": "^7.9.0",
     "@typescript-eslint/eslint-plugin": "^2.23.0",
     "@typescript-eslint/parser": "^2.23.0",
